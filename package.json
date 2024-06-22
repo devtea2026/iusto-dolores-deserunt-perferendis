@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/iusto-dolores-deserunt-perferendis",
-  "version": "3.7.43",
+  "version": "3.8.43",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -495,5 +495,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/iusto-dolores-deserunt-perferendis/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
